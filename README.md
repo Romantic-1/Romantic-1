@@ -3,6 +3,8 @@
 # 我的访问量
 ![Visitor Count](https://profile-counter.glitch.me/Romantic-1/count.svg)
 
+![](https://raw.githubusercontent.com/Romantic-1/ImgBed/main/20250425142213054.jpeg)
+
 
 <!--
 **Romantic-1/Romantic-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
