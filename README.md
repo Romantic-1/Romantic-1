@@ -3,7 +3,7 @@
 # 我的访问量
 ![Visitor Count](https://profile-counter.glitch.me/Romantic-1/count.svg)
 
-![](https://raw.githubusercontent.com/Romantic-1/ImgBed/main/20250425142213054.jpeg)
+
 
 
 <!--
